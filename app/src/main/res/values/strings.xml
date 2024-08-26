@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseNotificationsExample</string>
+    <string name="msg_token_fmt">Oddiy bildirishnoma</string>
+</resources>
